@@ -1,2 +1,2 @@
 # ext-change
-changes file extensions
+changes file extensions from .img to .jpg
